@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Maheshwari</h1>
-<h3 align="center">A CSE core student who loves exploring new things and try to contribute in open source</h3>
+<h3 align="center">A CSE core student who loves exploring new things and trying to contribute in open source</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush645&label=Profile%20views&color=0e75b6&style=flat" alt="ayush645" /> </p>
 
@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on [Computer vision](https://github.com/ayush645/New_Era_computers)
 
-- 🌱 I’m currently learning **Apk development with Flutter and ethical Hacking**
+- 🌱 I’m currently learning **Apk development with Flutter and Ethical Hacking**
 
 - 🤝 I’m looking for help with [open source](https://devpost.com/software/mentavision?ref_content=user-portfolio&ref_feature=in_progress)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayush645](https://github.com/ayush645)
 
-- 📫 How to reach me **ayush2maheshwari@gmail.com**
+- 📫 You can reach me at **ayush2maheshwari@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/drive/folders/1D1qvFN_u__sVDaVC00YKXDG56GC-Ytij?usp=sharing
+- 📄 Know about my experiences here : https://drive.google.com/drive/folders/1D1qvFN_u__sVDaVC00YKXDG56GC-Ytij?usp=sharing
 
 - ⚡ Fun fact **I am stand up comedian**
 
