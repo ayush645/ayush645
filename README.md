@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ayush2maheshwari@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences https://drive.google.com/drive/folders/1D1qvFN_u__sVDaVC00YKXDG56GC-Ytij?usp=sharing
 
 - ⚡ Fun fact **I am stand up comedian**
 
