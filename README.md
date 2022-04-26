@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Computer vision](https://github.com/ayush645/New_Era_computers)
 
-- 🌱 I’m currently learning **Apk Development with Flutter and Ethical Hacking**
+- 🌱 I’m currently learning **Apk Development **
 
 - 🤝 I’m looking for help with [open source](https://devpost.com/software/mentavision?ref_content=user-portfolio&ref_feature=in_progress)
 
