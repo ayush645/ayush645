@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Maheshwari</h1>
 <h3 align="center">A passionate Full Stack Web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-18657810">
+<img align="right" alt="Coding" width="400" src="[https://tenor.com/view/coding-gif-18657810](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush645&label=Profile%20views&color=0e75b6&style=flat" alt="ayush645" /> </p>
 
 - 🔭 I’m currently working on **The AR world**
